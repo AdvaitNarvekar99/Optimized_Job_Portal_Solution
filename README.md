@@ -37,12 +37,12 @@
 <h3>2. Logical Diagram</h3>  
 <p align="justify">Details the database schema, including relationships and constraints, ensuring data integrity.</p>  
 
-![Logical Diagram]{Logical_Diagram.png}
+![Logical Diagram](Logical_Diagram.png)
 
 <h3>3. Navigation Diagram</h3>  
 <p align="justify">Visualizes user workflows, showcasing dashboards, and key actions for job seekers and employers.</p>  
 
-![Navigation Diagram]{Navigation_Diagram.png}  
+![Navigation Diagram](Navigation_Diagram.png)
 
 ---
 
