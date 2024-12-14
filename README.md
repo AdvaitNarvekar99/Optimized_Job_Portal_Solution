@@ -31,15 +31,15 @@
 
 <h3>1. Conceptual Diagram</h3>  
 <p align="justify">Depicts core entities like Applicants, Employers, and Jobs, and highlights their relationships.</p>  
-![Conceptual Diagram](link_to_image_or_attach_directly)  
+![Conceptual Diagram](Conceptual_Diagram.png)  
 
 <h3>2. Logical Diagram</h3>  
 <p align="justify">Details the database schema, including relationships and constraints, ensuring data integrity.</p>  
-![Logical Diagram](link_to_image_or_attach_directly)  
+![Logical Diagram](Logical_Diagram.png)  
 
 <h3>3. Navigation Diagram</h3>  
 <p align="justify">Visualizes user workflows, showcasing dashboards, and key actions for job seekers and employers.</p>  
-![Navigation Diagram](link_to_image_or_attach_directly)  
+![Navigation Diagram](Navigation_Diagram.png)  
 
 ---
 
