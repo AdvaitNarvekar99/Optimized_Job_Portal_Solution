@@ -56,6 +56,13 @@
 
 ---
 
+<h2>🔗 Project Demo</h2>
+<p align="justify"> Check out the video demo of the project here:<br> </p>
+
+[Project Demo Video](https://shorturl.at/7SqkT)
+
+---
+
 <h2>🔍 Conclusion</h2>  
 <p align="justify">  
 The <b>Online Job Portal</b> represents a major step forward in improving job market efficiency. Designed to meet modern recruitment needs, it bridges the gap between job seekers and employers.<br>  
