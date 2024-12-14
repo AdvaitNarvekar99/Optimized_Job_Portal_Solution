@@ -70,9 +70,3 @@ With its secure infrastructure, intuitive design, and robust automation features
 </p>  
 
 ---
-
-<p align="justify"><i>For questions or feedback, reach out via <a href="#">LinkedIn</a> or create an issue in the repository.</i></p>  
-
----
-
-This version is fully formatted with proper `<h1>`, `<h2>`, and `<h3>` tags for headers, `<p>` for justification, and `<br>` for line breaks. It is clean, professional, and ready for GitHub. Let me know if you'd like further adjustments!
